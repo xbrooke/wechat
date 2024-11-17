@@ -1,5 +1,5 @@
 const oa_name = "徐大兵";
-const oa_description = "分享设计与科技生活";
+const oa_description = "分享车机与科技生活";
 
 function replaceText(elementId, newText) {
   var element = document.getElementById(elementId);
